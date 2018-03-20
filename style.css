@@ -1,0 +1,9 @@
+body{
+    background: green;
+}
+header{
+
+    height: 48px;
+    margin: 0;
+    background: border-box;
+}
